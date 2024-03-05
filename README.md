@@ -24,7 +24,7 @@ Efficiently manage bundle products with this plugin. Bundle products often have 
 
 ## Installation
 
-1. Download the plugin ZIP file from the official WordPress Plugin Repository.
+1. Download the plugin ZIP file from the Repository.
 2. Upload and install the plugin through the WordPress admin panel.
 3. Activate the plugin.
 4. Configure the plugin settings in the WooCommerce settings menu.
